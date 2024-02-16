@@ -20,6 +20,13 @@
 
 #
 
+### Connect with me:
+
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/marouanekaffa#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/marouanekaffa/#gh-dark-mode-only)
+
+#
+
 ### 📊 Stats
 
 ![Marouane's GitHub stats](https://github-readme-stats.vercel.app/api?username=marouaneK02&show_icons=true&theme=gruvbox)
