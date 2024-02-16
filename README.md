@@ -1,3 +1,9 @@
+## Hi, my name is Marouane Kaffa 👋
+
+- 🌱 I’m currently learning android app development
+- 👯 I’m looking to collaborate on anything
+
+---
 
 ### Languages and Tools
 
