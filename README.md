@@ -20,7 +20,7 @@
 
 #
 
-### Connect with me:
+### Contact me!
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/marouanekaffa#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/marouanekaffa/#gh-dark-mode-only)
