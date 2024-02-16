@@ -26,8 +26,6 @@
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/marouanekaffa/#gh-dark-mode-only)
 <br />
 
-#
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 
