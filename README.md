@@ -35,7 +35,7 @@
 
 <details>
   <summary>📊 GitHub Stats</summary>
-
+  <br>
   <img align="left" alt="Marouane's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marouaneK02&theme=dark" />
 
 </details>
