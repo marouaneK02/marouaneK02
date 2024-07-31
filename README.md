@@ -1,4 +1,4 @@
-## Hi, I'm Marouane Kaffa 👋
+## Hi, I'm Marouane 👋
 I'm a dedicated game and full-stack developer with a burning passion for creating unique and fun experiences. From a young age, I've been captivated by the magic of creating worlds and bringing ideas to life through code. Currently, I'm delving into Android development, eager to expand my skill set and contribute to new and evolving tech.
 
 <br>
