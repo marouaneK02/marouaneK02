@@ -3,7 +3,7 @@ I'm a dedicated game and full-stack developer with a burning passion for creatin
 
 <br>
 
-- 🌱 I’m currently learning Android App Development
+- 🌱 I’m currently learning about Android App Development
 - 👯 I’m looking to collaborate on anything
 
 ---
